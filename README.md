@@ -8,7 +8,8 @@
 * JS
 
 this Project is created for have fun, and master javascript .
-i always try to do something good with a new technologies
+
+i always try to do something good with a new technologies, enjoy it! :)
 ## setup
 I deploy it on netlify
 
